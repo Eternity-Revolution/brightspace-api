@@ -32,8 +32,8 @@ const config = {
 const client = new oauth2.AuthorizationCode(config);
 
 app.get("/auth", (req, res) => {
-  const redirectUri = req.query.redirect || '/';
-  req.session.redirectUri = redirectUri;
+  // const redirectUri = req.query.redirect || '/';
+  // req.session.redirectUri = redirectUri;
   const authorizationUri = client.authorizeURL({
     redirect_uri: "https://ec2-3-96-197-44.ca-central-1.compute.amazonaws.com:3005/callback",
     scope: "quizzing:*:*",
