@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <script>
+                window.onload = function () {
+                        const urlParams = new URLSearchParams(window.location.search);
+                        const code = urlParams.get('code');
+                        console.log(window.location.href)
+                        console.log(code);
+                        if (code) {
+                                window.opener.postMessage(window.location.href, 'http://localhost:51164/');
+                        }
+                }
+        </script>
+</head>
+
+<body>
+        Access Token Obtained.
+        
+</body>
+
+</html>

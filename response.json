@@ -1,0 +1,685 @@
+{
+        "Objects": [
+            {
+                "QuizId": 33084,
+                "Name": "Unit 1 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114273,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 1,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-247",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33085,
+                "Name": "Unit 2 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114274,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 2,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-248",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33086,
+                "Name": "Unit 3 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114275,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 3,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-249",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33087,
+                "Name": "Unit 4 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114276,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 4,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-250",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33088,
+                "Name": "Midterm (Interim Checkpoint)",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114289,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "Please read the following instructions carefully. If you have any questions or concerns, reach out to your teacher by email.\r\nTest Instructions\r\n\r\n\r\nThis test will cover material from units 1-4.\r\n\r\n\r\nNo outside materials are allowed on this test.\r\n\r\n\r\nThere are 50 multiple choice questions on this test.\r\n\r\n\r\nTest Block Rules\r\n\r\n\r\nRead through the Test Instructions and Test Integrity Policy. \r\n\r\n\r\nIf you violate any of our instructions or policies, your test will be closed and you will receive a zero.\r\n\r\n\r\nYou must keep your webcam and mic on at all times during this test.\r\n\r\n\r\nYou may not leave the view of the camera unless you receive your invigilator's approval.\r\n\r\n\r\nYour invigilator will give you your password when you log in to your test block. Copy and paste your password below.\r\n\r\n",
+                        "Html": "<p dir=\"ltr\">Please read the following instructions carefully. If you have any questions or concerns, reach out to your teacher by email.</p>\r\n<h3 dir=\"ltr\">Test Instructions</h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">This test will cover material from units 1-4.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">No outside materials are allowed on this test.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">There are 50 multiple choice questions on this test.</p>\r\n</li>\r\n</ul>\r\n<h3 dir=\"ltr\">Test Block Rules</h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Read through the&#160;<a rel=\"noopener\" href=\"https://docs.google.com/document/d/1dcLO9MdHrtzwG1p0MmVhImWuer4OzSQ6pSHg0uZT0cc/edit?usp=sharing\">Test Instructions</a>&#160;and&#160;<a rel=\"noopener\" href=\"https://docs.google.com/document/d/1MI6sqTb1NVVSSWZztfJ9TZLvXh-63l3r-lBXdeeIC_U/edit?usp=sharing\">Test Integrity Policy</a>.&#160;</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">If you violate any of our instructions or policies, your test will be closed and you will receive a zero.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">You must keep your webcam and mic on at all times during this test.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">You may not leave the view of the camera unless you receive your invigilator&#39;s approval.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Your invigilator will give you your password when you log in to your test block. Copy and paste your password below.</p>\r\n</li>\r\n</ul>"
+                    },
+                    "IsDisplayed": true
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "StartDate": "2022-06-16T03:15:00.000Z",
+                "EndDate": "2022-06-16T05:45:00.000Z",
+                "DueDate": null,
+                "DisplayInCalendar": true,
+                "SortOrder": 5,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 45
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 2,
+                    "LateLimitMinutes": 1
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": "Unnb7f",
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": true,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": true,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-251",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33089,
+                "Name": "Unit 5 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114277,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 6,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-252",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33090,
+                "Name": "Unit 6 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114278,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 7,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-253",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33091,
+                "Name": "Unit 7 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114279,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 8,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-254",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33092,
+                "Name": "Unit 8 Quiz",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114280,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "StartDate": null,
+                "EndDate": null,
+                "DueDate": null,
+                "DisplayInCalendar": false,
+                "SortOrder": 9,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 15
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 0,
+                    "LateLimitMinutes": null
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": null,
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": false,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": false,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-255",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            },
+            {
+                "QuizId": 33093,
+                "Name": "Final Exam",
+                "AutoExportToGrades": true,
+                "IsActive": true,
+                "GradeItemId": 114290,
+                "IsAutoSetGraded": true,
+                "Instructions": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": false
+                },
+                "Description": {
+                    "Text": {
+                        "Text": "Please read the following instructions carefully. If you have any questions or concerns, reach out to your teacher by email.\r\nTest Instructions\r\n\r\n\r\nThis test will cover material from units 5-8.\r\n\r\n\r\nNo outside materials are allowed on this test.\r\n\r\n\r\nThere are 50 multiple choice questions on this test.\r\n\r\n\r\nTest Block Rules\r\n\r\n\r\nRead through the Test Instructions and Test Integrity Policy. \r\n\r\n\r\nIf you violate any of our instructions or policies, your test will be closed and you will receive a zero.\r\n\r\n\r\nYou must keep your webcam and mic on at all times during this test.\r\n\r\n\r\nYou may not leave the view of the camera unless you receive your invigilator's approval.\r\n\r\n\r\nYour invigilator will give you your password when you log in to your test block. Copy and paste your password below.\r\n\r\n",
+                        "Html": "<p dir=\"ltr\">Please read the following instructions carefully. If you have any questions or concerns, reach out to your teacher by email.</p>\r\n<h3 dir=\"ltr\">Test Instructions</h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">This test will cover material from units 5-8.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">No outside materials are allowed on this test.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">There are 50 multiple choice questions on this test.</p>\r\n</li>\r\n</ul>\r\n<h3 dir=\"ltr\">Test Block Rules</h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Read through the&#160;<a rel=\"noopener\" href=\"https://docs.google.com/document/d/1dcLO9MdHrtzwG1p0MmVhImWuer4OzSQ6pSHg0uZT0cc/edit?usp=sharing\">Test Instructions</a>&#160;and&#160;<a rel=\"noopener\" href=\"https://docs.google.com/document/d/1MI6sqTb1NVVSSWZztfJ9TZLvXh-63l3r-lBXdeeIC_U/edit?usp=sharing\">Test Integrity Policy</a>.&#160;</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">If you violate any of our instructions or policies, your test will be closed and you will receive a zero.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">You must keep your webcam and mic on at all times during this test.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">You may not leave the view of the camera unless you receive your invigilator&#39;s approval.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Your invigilator will give you your password when you log in to your test block. Copy and paste your password below.</p>\r\n</li>\r\n</ul>"
+                    },
+                    "IsDisplayed": true
+                },
+                "Header": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "Footer": {
+                    "Text": {
+                        "Text": "",
+                        "Html": ""
+                    },
+                    "IsDisplayed": true
+                },
+                "StartDate": "2022-06-16T03:15:00.000Z",
+                "EndDate": "2022-06-16T05:45:00.000Z",
+                "DueDate": null,
+                "DisplayInCalendar": true,
+                "SortOrder": 10,
+                "SubmissionTimeLimit": {
+                    "IsEnforced": true,
+                    "ShowClock": true,
+                    "TimeLimitValue": 45
+                },
+                "SubmissionGracePeriod": 5,
+                "LateSubmissionInfo": {
+                    "LateSubmissionOption": 2,
+                    "LateLimitMinutes": 1
+                },
+                "AttemptsAllowed": {
+                    "IsUnlimited": false,
+                    "NumberOfAttemptsAllowed": 1
+                },
+                "Password": "7UQkvV",
+                "AllowHints": false,
+                "DisableRightClick": false,
+                "DisablePagerAndAlerts": true,
+                "RestrictIPAddressRange": [],
+                "NotificationEmail": null,
+                "CalcTypeId": 1,
+                "CategoryId": null,
+                "PreventMovingBackwards": false,
+                "Shuffle": true,
+                "ActivityId": "https://ids.brightspace.com/activities/quiz/11a60fe2d11b421ea680bb7f-256",
+                "AllowOnlyUsersWithSpecialAccess": false,
+                "IsRetakeIncorrectOnly": false
+            }
+        ],
+        "Next": null
+    }

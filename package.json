@@ -1,0 +1,26 @@
+{
+  "name": "brightspace-api",
+  "version": "1.0.0",
+  "description": "Project to call Brightspace API using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Brightspace",
+    "API"
+  ],
+  "author": "Arpan Bhavsar",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "https": "^1.0.0",
+    "openssl-self-signed-certificate": "^1.1.6",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "simple-oauth2": "^5.0.0"
+  }
+}
