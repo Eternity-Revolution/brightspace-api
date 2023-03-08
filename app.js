@@ -35,7 +35,7 @@ app.get("/auth", (req, res) => {
   const redirectUri = req.query.redirect || '/';
   req.session.redirectUri = redirectUri;
   const authorizationUri = client.authorizeURL({
-    redirect_uri: "https://localhost:3001/callback",
+    redirect_uri: "https://ec2-3-96-197-44.ca-central-1.compute.amazonaws.com:3005/callback",
     scope: "quizzing:*:*",
     state: state,
   });
@@ -47,7 +47,7 @@ app.get("/callback",  async (req, res) => {
   // delete req.session.redirectUri;
   const options = {
     code: req.query.code,
-    redirect_uri: "https://localhost:3001/callback",
+    redirect_uri: "https://ec2-3-96-197-44.ca-central-1.compute.amazonaws.com:3005/callback",
   };
 
   try {
@@ -131,7 +131,7 @@ app.get("/quizz", async (req, res) => {
 });
 
 app.listen(3004, () => {
-  console.log("Server started on port 3000");
+  console.log("Server started on port 3004");
 });
 
 module.exports = app;
