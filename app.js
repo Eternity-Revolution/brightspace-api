@@ -2,7 +2,8 @@ const oauth2 = require("simple-oauth2");
 const express = require("express");
 const session = require('express-session');
 const request = require("request");
-const path = require('path')
+const path = require('path');
+const cors = require('cors');
 
 const randomBytes = require("crypto").randomBytes;
 const state = randomBytes(20).toString("hex");
@@ -10,7 +11,7 @@ const sessionSecret = randomBytes(20).toString("hex");
 
 const app = express();
 // var accessToken ='';
-
+app.use(cors());
 app.use(session({
   secret: sessionSecret,
   resave: true,
